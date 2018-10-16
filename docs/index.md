@@ -1,25 +1,35 @@
-# Data Controller Documentation
+# MC Quiz Games - Documentation
 
 ## Overview
 
-The Data Controller for SAS® enables users to self serve their data changes, and for data owners to retain control over those updates by reviewing and approving them.
+The MC Quiz games are a series of sites that utilise the concepts of 'question based learning' and 'community validated content'.
+They have been created to provide a knowledge bank by which players can:
 
-<iframe src="https://player.vimeo.com/video/277472582" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+* Learn (using the flashcards)
+* Test (via questions and quizzes)
+* Understand (by writing and reviewing intelligible content)
+
+The following sites are available:
+
+* https://sasensei.com (covers SAS® )
+* https://www.ruby.cards (covers the language of Ruby)
+* https://pilot.cards (for learning to fly)
+
 
 ## Documents
 
 The following information is available on this site:
 
-* [Overview](dc-overview.md)
-* [User Guide](dc-userguide.md)
-* [Config - Adding Tables](dcc-tables.md)
-* [Config - Security](dcc-security.md)
-* [Installation](dci-backend.md)
+* [Signup](mc-signup.md)
 
 ## Online resources
 
-The following sites contain additional information on the Data Controller:
+The following sites contain additional information:
 
-* DC Overview [Presentation](https://slides.com/allanbowe/datacontroller)
-* Data Controller [LinkedIn](https://www.linkedin.com/company/datacontroller/) page
-* Data Controller [website](https://datacontroller.io)
+### Sasensei
+
+* Linkedin: https://www.linkedin.com/company/sasensei
+* Reddit: https://www.reddit.com/r/sasensei/
+* Facebook: https://www.facebook.com/sasenseichallenge/
+
+
