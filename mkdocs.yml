@@ -1,7 +1,7 @@
 site_name: Macro Cards Quiz Games - Player Documentation
 pages:
 - Home: index.md
-- Using Data Controller:
+- User Guide:
     - Overview: mc-overview.md
 
 markdown_extensions:

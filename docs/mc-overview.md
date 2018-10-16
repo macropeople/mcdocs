@@ -1,4 +1,4 @@
-# MC Quiz Games - New Players
+# MC Quiz Games - Overview
 
 ## Signup
 

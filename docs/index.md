@@ -20,7 +20,7 @@ The following sites are available:
 
 The following information is available on this site:
 
-* [Signup](mc-signup.md)
+* [Overview](mc-overview.md)
 
 ## Online resources
 
