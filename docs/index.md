@@ -1,13 +1,16 @@
-# MC Quiz Games - Documentation
+# Sasensei - Documentation
 
 ## Overview
 
-The MC Quiz games are a series of sites that utilise the concepts of 'question based learning' and 'community validated content'.
-They have been created to provide a knowledge bank by which players can:
+Sasensei is a quiz site that leverages the concepts of 'question based learning' and 'community validated content'.
+It has been created to provide a knowledge bank by which players can:
 
 * Learn (using the flashcards)
 * Test (via questions and quizzes)
 * Understand (by writing and reviewing intelligible content)
+
+By passing questions and quizzes, and especially by submitting (quality) content, you will earn tokens and reputation that can be used to unlock the later levels.  This includes multiplayer, and the ability to create your own test.  In addition, higher privileges come with higher levels (such as the ability to create tags and edit questions).
+
 
 The following sites are available:
 
